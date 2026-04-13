@@ -59,6 +59,6 @@ Built a dashboard covering finance, sales, and operations with proper data model
 
 ## ⚡ A Little About Me
 
-I like working on things that are practical and useful — not just models, but systems that actually help in decision-making.
+I like working on things that are practical and useful  not just models, but systems that actually help in decision-making.
 
-Still learning, still building — and trying to get better every day.
+Still learning, still building - and trying to get better every day.
