@@ -2,7 +2,7 @@
 
 I’m someone who enjoys working with data and AI to solve real problems.
 
-Right now, I’m focused on building practical AI systems — especially using LLMs — and learning how to take them from ideas to something that actually works in the real world.
+Right now, I’m focused on building practical AI systems  especially using LLMs - and learning how to take them from ideas to something that actually works in the real world.
 
 ---
 
